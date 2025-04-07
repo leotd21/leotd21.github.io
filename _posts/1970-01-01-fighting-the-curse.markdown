@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "Fighting the Curse of Uncertainty
+comments: true
+title: "Fighting the Curse of Uncertainty"
 date: 2025-04-07
 categories: [Decision Making, Personal Growth, Uncertainty]
 tags: [uncertainty, decision making, probabilistic thinking, master's degree, life choices]
+mathjax: false
 ---
 
 <style>
