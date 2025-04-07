@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "Short Story on AI: Forward Pass"
 excerpt: "A story of an existential crisis under the hood of a humble forward pass."
-date:   2021-03-27 10:00:00
+date:   1970-01-01 09:00:00
 mathjax: false
 ---
 
