@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "What a Deep Neural Network thinks about your #selfie"
 excerpt: "We will look at Convolutional Neural Networks, with a fun example of training them to classify #selfies as good/bad based on a scraped dataset of 2 million selfies."
-date:   2015-10-25 11:00:00
+date:   1970-01-01 11:00:00
 mathjax: false
 ---
 

@@ -5,4 +5,4 @@ permalink: /about/
 includelink: true
 ---
 
-See my [website](https://karpathy.ai/).
+See my [website](https://www.linkedin.com/in/dinh-luong-ta-8157a9140/).

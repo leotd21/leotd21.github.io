@@ -1,11 +1,10 @@
 # Site settings
-title: Andrej Karpathy blog
+title: Sloppy Science blog
 email: 
-description: "Musings of a Computer Scientist."
+description: "Musings of a Bayesian."
 baseurl: ""
-url: "http://karpathy.github.io"
-twitter_username: karpathy
-github_username:  karpathy
+url: "http://leotd21.github.io"
+github_username:  leotd21
 
 # Build settings
 markdown: kramdown
