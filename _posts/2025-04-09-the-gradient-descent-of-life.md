@@ -1,11 +1,23 @@
 ---
 layout: post
+comments: true
 title: "The Gradient Descent of Life"
 date: 2025-04-09
 categories: [Mindset, Personal Growth, Calm]
 tags: [mindfulness, calmness, gradient descent, machine learning, life philosophy]
-
+mathjax: false
 ---
+
+<style>
+p {
+  text-align: justify;
+}
+.post pre, .post code {
+    border: none;
+    background-color: #eee;
+}
+
+</style>
 
 If you've ever studied machine learning, you've probably heard of **gradient descent** — the mathematical process of taking small, careful steps to minimize error and reach a better solution.
 
