@@ -4,7 +4,7 @@ comments: true
 title: "Is My Coffee Getting Weaker?"
 date: 2025-05-01
 categories: [Stories]
-tags: [hypothesis testing, statistics, beginner, data science, coffee]
+tags: [hypothesis testing, statistics]
 mathjax: false
 ---
 
@@ -18,6 +18,8 @@ p {
 }
 
 </style>
+
+---
 
 The first sip of my usual latte didn’t hit the same today... and it wasn’t just my imagination. Right?
 
@@ -122,5 +124,3 @@ And yes... catching shady latte dilution schemes.
 Whether it’s coffee, company profits, or climate change — hypothesis testing gives us a way to **use evidence** instead of just gut feelings.
 
 But yes — *sometimes your gut was right all along*. Especially about lattes.
-
-Stay skeptical. Stay caffeinated.
