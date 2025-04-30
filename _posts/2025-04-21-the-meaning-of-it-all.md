@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "Are you sure Mr. Feynman?"
 date: 2025-04-21
-categories: [Books, Philosophy, Science]
+categories: [Philosophy]
 tags: [richard feynman, science, meaning, uncertainty, curiosity]
 mathjax: false
 ---
@@ -103,4 +103,4 @@ So maybe the real meaning of it all… is that we don’t need a final answer. J
 > _“Let us not pray to be sheltered from dangers but to be fearless when facing them.”_  
 > — **Rabindranath Tagore**
 
-Here’s to living in the questions. 🌌
+Here’s to living in the questions.
