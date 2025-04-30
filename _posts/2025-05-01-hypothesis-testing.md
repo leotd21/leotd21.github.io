@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "A Short Story on Hypothesis Testing: Is My Coffee Getting Weaker?"
+title: "Is My Coffee Getting Weaker?"
 date: 2025-05-01
 categories: [Stories]
 tags: [hypothesis testing, statistics, beginner, data science, coffee]
@@ -20,8 +20,6 @@ p {
 </style>
 
 The first sip of my usual latte didn’t hit the same today... and it wasn’t just my imagination. Right?
-
-Welcome to the mysterious case of watered-down lattes — and a beginner-friendly crash course in **hypothesis testing**.
 
 ## The Latte Dilemma
 
@@ -125,4 +123,4 @@ Whether it’s coffee, company profits, or climate change — hypothesis testing
 
 But yes — *sometimes your gut was right all along*. Especially about lattes.
 
-Stay skeptical. Stay caffeinated. Stay curious.
+Stay skeptical. Stay caffeinated.
