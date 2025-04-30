@@ -5,6 +5,7 @@ title: "A Short Story on Hypothesis Testing: Is My Coffee Getting Weaker?"
 date: 2025-05-01
 categories: [Stories]
 tags: [hypothesis testing, statistics, beginner, data science, coffee]
+mathjax: false
 ---
 
 <style>
